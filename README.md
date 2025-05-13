@@ -2,8 +2,9 @@
 
 This guide will walk you through the steps to successfully set up and run a Jenkins CI/CD pipeline to deploy a custom WordPress theme to a K3s Kubernetes cluster.
 
----
-### Project Structure
+## 📁 Project Structure
+
+```
 
 wordpress-theme-cicd/
 ├── custom-wp/
@@ -16,7 +17,9 @@ wordpress-theme-cicd/
 ├── Jenkinsfile
 └── README.md
 
+```
 
+---
 
 ## 1. Install Jenkins
 
